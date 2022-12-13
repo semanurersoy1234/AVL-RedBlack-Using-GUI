@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw3-tree-algorithms-gui", "ce205-hw3-tree-algorithms-gui\ce205-hw3-tree-algorithms-gui.csproj", "{05BAB746-A113-4E65-AA9B-66B03BFF299A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw3-test-cs", "ce205-hw3-test-cs\ce205-hw3-test-cs.csproj", "{4D7CC1B7-3963-4255-AE6C-8ED23F7F5D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw3-avl-redblack-bplus-tree", "ce205-hw3-avl-redblack-bplus-tree\ce205-hw3-avl-redblack-bplus-tree.csproj", "{2C2CD820-7C25-4094-A29F-2E7B7C7219AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw3-hashing-with-chaining", "ce205-hw3-hashing-with-chaining\ce205-hw3-hashing-with-chaining.csproj", "{8D21F661-2A44-4CE2-9B7A-BF55DAA4AED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce205-hw3-open-adressing", "ce205-hw3-open-adressing\ce205-hw3-open-adressing.csproj", "{B8A9F008-E54E-4564-99EB-025F02238457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BAB746-A113-4E65-AA9B-66B03BFF299A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BAB746-A113-4E65-AA9B-66B03BFF299A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BAB746-A113-4E65-AA9B-66B03BFF299A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BAB746-A113-4E65-AA9B-66B03BFF299A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7CC1B7-3963-4255-AE6C-8ED23F7F5D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7CC1B7-3963-4255-AE6C-8ED23F7F5D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7CC1B7-3963-4255-AE6C-8ED23F7F5D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7CC1B7-3963-4255-AE6C-8ED23F7F5D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2CD820-7C25-4094-A29F-2E7B7C7219AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2CD820-7C25-4094-A29F-2E7B7C7219AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2CD820-7C25-4094-A29F-2E7B7C7219AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2CD820-7C25-4094-A29F-2E7B7C7219AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D21F661-2A44-4CE2-9B7A-BF55DAA4AED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D21F661-2A44-4CE2-9B7A-BF55DAA4AED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D21F661-2A44-4CE2-9B7A-BF55DAA4AED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D21F661-2A44-4CE2-9B7A-BF55DAA4AED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A9F008-E54E-4564-99EB-025F02238457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A9F008-E54E-4564-99EB-025F02238457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A9F008-E54E-4564-99EB-025F02238457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A9F008-E54E-4564-99EB-025F02238457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB7DF56-34BD-42CD-9A13-9F848898854C}
+	EndGlobalSection
+EndGlobal
